@@ -116,4 +116,18 @@ Solutions Architect career pathway:
 2. Coding Proficiency (Java or Python)
 3. AWS Certifications
 4. Entry Level Role
-5. Solutions Architect
+5. Solutions 
+
+
+## AWS Core Services
+
+AWS Cloud9 is a cloud-based IDE that lets you write, run, and debug your code in a browser! It supports many languages including python and java and javascript. It even supports Go!
+
+You can start projects from anywhere on any device and you can code together with other people without having to commit your changes to Git.
+
+Cloud9 Development environment is your computer and AWS Cloud0.
+
+Cloud9 Runtime environment can either be an Amzon EC2 instance or it can be your own server.
+
+Cloud9 Version Control system can be AWS CodeCommit repository or it can be another remote repository type like GitHub.
+
