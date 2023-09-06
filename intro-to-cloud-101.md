@@ -125,9 +125,10 @@ AWS Cloud9 is a cloud-based IDE that lets you write, run, and debug your code in
 
 You can start projects from anywhere on any device and you can code together with other people without having to commit your changes to Git.
 
-Cloud9 Development environment is your computer and AWS Cloud0.
+Cloud9 Development environment is your computer and AWS Cloud9.
 
 Cloud9 Runtime environment can either be an Amzon EC2 instance or it can be your own server.
 
-Cloud9 Version Control system can be AWS CodeCommit repository or it can be another remote repository type like GitHub.
+Cloud9 Version Control system can be AWS CodeCommit repository or it can be another remote repository type like GitHub
 
+In order to use Cloud9 you first need to set up your AWS account and create an IAM user with the right permissions.
