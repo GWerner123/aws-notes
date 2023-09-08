@@ -132,3 +132,7 @@ Cloud9 Runtime environment can either be an Amzon EC2 instance or it can be your
 Cloud9 Version Control system can be AWS CodeCommit repository or it can be another remote repository type like GitHub
 
 In order to use Cloud9 you first need to set up your AWS account and create an IAM user with the right permissions.
+
+In AWS Cloud9, a development environment is where you develop and store all of the files associated with a project you are working on and where you run the tools that allow you to do that development. In a basic application in cloud9 you might develop in an EC2 environment.
+
+Note to self: you have to use the link that was emailed to your personal email address when you created your administrator access IAM user if you want to log in to the account as that user. It won't let you log in using the normal IAM user login page.
